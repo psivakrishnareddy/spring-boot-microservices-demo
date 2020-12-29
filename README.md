@@ -8,3 +8,8 @@ A Demo microservices Spring boot Projects for Reference, using eureka server , w
 a simple movie demo app to demonstrate the microservices basics using restTemplate for external api calls, which can be replaced by webClient from Spring reactive Web
 
 Hystrix for fault tolerence not implemented..
+
+# Dependencies
+
+* Spring web
+* Spring Cloud eureka server/client
